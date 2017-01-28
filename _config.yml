@@ -1,0 +1,30 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://tunnll.com
+title: Tunnll - Your personal bus is here 
+email: hello@tunnll.com 
+author: Tunnll
+description: > # "Write an awesome description for your new site here. 
+        Tunnll is a next-generation urban transportation system.
+copyright: 'Copyright &copy; 2017 Tunnll. All Rights Reserved.'
+credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/tunnll_
+  - title: linkedin
+    url: 
