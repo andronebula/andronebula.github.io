@@ -2,7 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://tunnll.com
+#url: http://tunnll.com
+#url: localhost:4000
+#baseurl: http://tunnll.com
+#baseurl: http://127.0.0.1:4000
 title: Tunnll - Your personal bus is here 
 email: hello@tunnll.com 
 author: Tunnll
